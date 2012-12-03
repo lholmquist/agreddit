@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">AGReddit</string>
+    <string name="title_story_detail">Story Detail</string>
+    <string name="title_story_list">Stories</string>
+
+</resources>
